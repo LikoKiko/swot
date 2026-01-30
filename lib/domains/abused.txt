@@ -1,9 +1,6 @@
 mdx.ac
 esoft.academy
 itstep.academy
-ajmanuni.ac.ae
-aths.ac.ae
-aust.ae
 mbz.ens.sch.ae
 sch.edu.af
 fti.edu.al
@@ -1033,6 +1030,7 @@ student.utcb.ro
 students.umfiasi.ro
 uab.ro
 rocks
+bg.ac.rs
 aurora.ekof.bg.ac.rs
 edu.arh.bg.ac.rs
 mas.bg.ac.rs
@@ -1334,7 +1332,6 @@ my.csun.edu
 net.iul.edu.lb
 alunos.sc.senac.br
 kgu.ac.kr
-students.adu.ac.ae
 altinbas.edu.tr
 daejin.ac.kr
 studenti.uniba.it
@@ -1488,7 +1485,6 @@ sfcollege.edu
 utcancun.edu.mx
 alunos.estacio.br
 aluno.uniasselvi.com.br
-uaeu.ac.ae
 uinjkt.ac.id
 edu.pa.senac.br
 vpt.edu.in
@@ -1785,3 +1781,18 @@ cs.modern-academy.edu.eg
 alu.edu.gva.es
 lecturer.undip.ac.id
 undip.ac.id
+dtu.edu.eg
+karnavatiuniversity.edu.in
+strategyfirst.edu.mm
+cmcu.edu.vn
+alu365.murciaeduca.es
+murciaeduca.es
+puts.ac.kr
+alunos.epbjc.pt
+epbjc.pt
+wlcormoc.edu.ph
+auct.edu.jo
+udm.edu.ph
+udch.edu.pe
+mhs.unesa.ac.id
+unesa.ac.id
